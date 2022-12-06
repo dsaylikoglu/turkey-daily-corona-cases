@@ -6,4 +6,4 @@ To use this script, you need to have Python and Chrome Webdriver installed.
 To download Python: https://python.org/downloads
 
 After installing Python, you should also download the Selenium package by Python.
-You can download it by writing the command <code>pip install selenium</code> in to the command line.
+You can download it by writing the command <code>pip install selenium</code> to the command line.
